@@ -1,4 +1,4 @@
-# com.castsoftware.labs.ollarama2mri
+# com.castsoftware.labs.ollama2mri
 
 This extension allow to leverage LLM during analyis in order to get functionnal/business/technical summaries of code.
 
